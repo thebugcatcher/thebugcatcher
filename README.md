@@ -43,8 +43,8 @@ I am an open-source advocate and I actively find ways to promote/contribute to o
 - 💬 Talk to me about:
     * Elixir 💧
     * Software Engineering Processes 🤖
-    * Test-Driven Development ✔️
-    * Theoretical Physics 👓
+    * Test-Driven Development ❌ ✔️
+    * Theoretical Physics 👓 🔭
     * Cool, new or shiny software stuff ✨
     * Open-world video games 🎮
 
