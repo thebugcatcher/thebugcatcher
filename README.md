@@ -5,6 +5,7 @@
 <a href="https://github.com/thebugcatcher">
   <img align="left" alt="Adi's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
+<br />
 
 ---
 
