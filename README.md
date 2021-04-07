@@ -1,9 +1,12 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/adiiyengar/">
-  <img align="left" alt="Adi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Adi's LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?&style=for-the-badge&logo=linkedin&logoColor=blue" />
 </a>
 <a href="https://github.com/thebugcatcher">
-  <img align="left" alt="Adi's GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Adi's GitHub" src="https://img.shields.io/badge/GitHub-gray?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.adiiyengar.com">
+  <img align="left" alt="Adi's Website" src="https://img.shields.io/badge/Blog-gray?&style=for-the-badge&logo=blogger&logoColor=black" />
 </a>
 <br />
 
@@ -28,7 +31,7 @@ I am an open-source advocate and I actively find ways to promote/contribute to o
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 - 🔭 I’m currently working on:
-    * A book with Packt Publications: The book walks readers through building a web framework in Elixir
+    * __A book with Packt Publications__: The book walks readers through building a web framework in Elixir
     * A talk @ Code BEAM EU Conference, 2021 
     * Building a Password Manager using Rust
     * Finding ways to visualize concepts of General Relativity using [D3.JS](https://github.com/d3/d3) and [Three.JS](https://github.com/mrdoob/three.js/)
@@ -45,10 +48,6 @@ I am an open-source advocate and I actively find ways to promote/contribute to o
     * Theoretical Physics
     * Cool, new or shiny software stuff ✨
     * Open-world video games 🎮
-
-- 📫 How to reach me: 
-    * LinkedIn
-    * Email
 
 - ⚡ Fun facts:
     * Both my thumbs are hypermobile; allows me to play some weird chords on the 🎸
