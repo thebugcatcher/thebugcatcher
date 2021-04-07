@@ -31,26 +31,26 @@ I am an open-source advocate and I actively find ways to promote/contribute to o
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 - 🔭 I’m currently working on:
-    * __A book with Packt Publications__: The book walks readers through building a web framework in Elixir
-    * A talk @ Code BEAM EU Conference, 2021 
-    * Building a Password Manager using Rust
-    * Finding ways to visualize concepts of General Relativity using [D3.JS](https://github.com/d3/d3) and [Three.JS](https://github.com/mrdoob/three.js/)
+    * __A book with Packt Publications__: The book walks readers through building a web framework in Elixir 📖
+    * A talk @ [Code BEAM EU Conference, 2021](https://www.codesync.global/speaker/adi-iyengar/) 🎤
+    * Building a Password Manager using Rust 🔐
+    * Finding ways to visualize concepts of General Relativity using [D3.JS](https://github.com/d3/d3) and [Three.JS](https://github.com/mrdoob/three.js/) 🌒 🪐
    
 - 🌱 I’m currently learning:
-    * [Gleam-lang](https://github.com/gleam-lang/gleam)
-    * [D3.JS](https://github.com/d3/d3)
-    * Exploring ways to [split and share my private keys](https://www.ethos.io/what-is-key-sharding) into a combination of different computers & U2F devices
+    * [Gleam-lang](https://github.com/gleam-lang/gleam) ⭐
+    * [D3.JS](https://github.com/d3/d3) 
+    * Exploring ways to [split and share my private keys](https://www.ethos.io/what-is-key-sharding) into a combination of different computers & U2F devices 🔑 🗝️
 
 - 💬 Talk to me about:
-    * Elixir
-    * Software Engineering Processes
-    * Test-Driven Development
-    * Theoretical Physics
+    * Elixir 💧
+    * Software Engineering Processes 🤖
+    * Test-Driven Development ✔️
+    * Theoretical Physics 👓
     * Cool, new or shiny software stuff ✨
     * Open-world video games 🎮
 
 - ⚡ Fun facts:
-    * Both my thumbs are hypermobile; allows me to play some weird chords on the 🎸
-    * I code about 80 hours a week, but it's still not [my number one passion](https://www.quora.com/Why-do-you-love-physics)
+    * Both my thumbs are hypermobile 👍 It allows me to play some weird chords on the 🎸
+    * I code about 80 hours a week ⌨️, but it's still not [my number one passion](https://www.quora.com/Why-do-you-love-physics)
 
 
