@@ -12,10 +12,25 @@
 
 ---
 
-Hi, I'm Adi Iyengar. I work as a Senior Software Engineer with Elixir, Ruby, Rust and Haskell. I am super 
-passionate about Software Engineering processes, Test-Driven Development and Functional Programming.
+Adi Iyengar is a Staff Software Engineer and an Open source advocate with 8 years
+of Elixir experience. For his day job, he works as a Staff Software Engineer at
+theScore where he uses Elixir, Distributed Erlang, Phoenix LiveView and several
+other tools to help build a high-volume, robust sports betting platform. On the
+side, he advises several startups and smaller organizations (all using Elixir)
+with domains ranging from commercial real estate management, Blockchain, B2B
+marketplace and mission-driven healthcare.
 
-I am an open-source advocate and I actively find ways to promote/contribute to open-source software. 
+Adi is also the co-host of Elixir Mix Podcast, a weekly podcast where hot topics
+in Elixir ecosystem are covered. He is extremely passionate about the Elixir
+community and constantly tries to find ways of giving back by mentoring people,
+helping startups adopt Elixir, helping candidates find Elixir jobs etc. Recently,
+Adi authored an Elixir book, Build your own web framework in Elixir (with Packt
+Publishing), that walks its readers through building a small web-framework using
+Elixir.
+
+When he's not writing or talking about Elixir, Adi can be seen with the Guitar,
+playing Ping Pong or Billiards, or trying out a new break dancing step.
+
 
 - 😄 Pronouns: He / Him
 
@@ -30,15 +45,19 @@ I am an open-source advocate and I actively find ways to promote/contribute to o
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 - 🔭 I’m currently working on:
-    * __A book with Packt Publications__: The book walks readers through building a web framework in Elixir 📖
-    * A talk @ [Code BEAM EU Conference, 2021](https://www.codesync.global/speaker/adi-iyengar/) 🎤
-    * Building a Password Manager using Rust 🔐
-    * Finding ways to visualize concepts of General Relativity using [D3.JS](https://github.com/d3/d3) and [Three.JS](https://github.com/mrdoob/three.js/) 🌒 🪐
+    * Promoting my book: [Build your own web framework in Elixir](https://www.amazon.com/Build-Your-Framework-Elixir-hands/dp/1801812543) 📖
+    * My podcast: [Elixir Mix Podcast](https://topenddevs.com/podcasts/elixir-mix) 🎤
+    * Advising startups with Elixir 💧
+    * A few talks at Engineering conferences 🗣️
+    * Building a workflow automation framework in Elixir 🤖
+    * Building an intelligent animal motion detector for my backyard pond using Elixir, Nerves and Nx 🐢 🦦
+    * Catching up on Theoretical Physics books 📚
    
 - 🌱 I’m currently learning:
+    * Machine Learning with Elixir
+    * Nerves + Raspberry Pi
+    * Scaling Elixir services on Heroku
     * [Gleam-lang](https://github.com/gleam-lang/gleam) ⭐
-    * [D3.JS](https://github.com/d3/d3) 
-    * Exploring ways to [split and share my private keys](https://www.ethos.io/what-is-key-sharding) into a combination of different computers & U2F devices 🔑 🗝️
 
 - 💬 Talk to me about:
     * Elixir 💧
